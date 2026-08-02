@@ -54,7 +54,7 @@ Whether you are a recruiter looking for technical proficiency, a hiring manager 
 ## 📬 Connect With Me
 
 * **GitHub:** [@ProDevTarique](https://github.com/ProDevTarique)
-* **LinkedIn:** [Md. Tarique Atique](www.linkedin.com/in/md-tarique-atique-0b197b294) 
+* **LinkedIn:** [Md. Tarique Atique](www.linkedin.com/in/md-tarique-atique) 
 
 <div align="center">
   <i>"Turning complex raw data into clear, actionable intelligence."</i>
